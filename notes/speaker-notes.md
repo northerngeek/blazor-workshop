@@ -1,6 +1,7 @@
 # Speaker notes
 
 This is a rough guide of what topics are best to introduce with each section.
+Wait a minute, I've updated two files? WTF?
 
 ## 00 Starting point
 
