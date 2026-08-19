@@ -1,6 +1,7 @@
 # Outline
 
 Day 1
+Hellooo!!!!!!
 
 0. Intro
     - Who are we?

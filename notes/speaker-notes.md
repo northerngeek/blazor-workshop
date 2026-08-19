@@ -1,7 +1,7 @@
 # Speaker notes
 
 This is a rough guide of what topics are best to introduce with each section.
-
+Blah
 ## 00 Starting point
 
 - Introduce presenters
